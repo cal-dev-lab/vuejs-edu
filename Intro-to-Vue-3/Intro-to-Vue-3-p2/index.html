@@ -15,7 +15,11 @@
       <div class="product-display">
         <div class="product-container">
           <div class="product-image">
-            <!-- image goes here -->
+            <!-- Binding a URL -->
+            <a :href="url">
+              <!-- Binding an image -->
+              <img :src="image" />
+            </a>
           </div>
           <div class="product-info">
             <h1>{{ product }}</h1>
