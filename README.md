@@ -14,5 +14,6 @@ Or <br />
 <a href="mailto:dev.cal.lees@gmail.com">dev.cal.lees@gmail.com</a>
 
 ### Where I am up to
+11 Feb '22
 https://github.com/Code-Pop/Intro-to-Vue-3/tree/L7-start <br />
 https://www.vuemastery.com/courses/intro-to-vue-3/class-and-style-binding-vue3
