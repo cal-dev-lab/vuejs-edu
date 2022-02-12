@@ -15,5 +15,5 @@ Or <br />
 
 ### Where I am up to
 11 Feb '22 <br />
-https://github.com/Code-Pop/Intro-to-Vue-3/tree/L7-start <br />
-https://www.vuemastery.com/courses/intro-to-vue-3/class-and-style-binding-vue3
+https://github.com/Code-Pop/Intro-to-Vue-3/tree/L8-start <br />
+https://www.vuemastery.com/courses/intro-to-vue-3/computed-properties-vue3
