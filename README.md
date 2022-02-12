@@ -14,6 +14,6 @@ Or <br />
 <a href="mailto:dev.cal.lees@gmail.com">dev.cal.lees@gmail.com</a>
 
 ### Where I am up to
-11 Feb '22 <br />
+12 Feb '22 <br />
 https://github.com/Code-Pop/Intro-to-Vue-3/tree/L8-start <br />
 https://www.vuemastery.com/courses/intro-to-vue-3/computed-properties-vue3
